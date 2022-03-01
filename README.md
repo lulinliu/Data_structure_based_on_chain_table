@@ -8,4 +8,5 @@ As a beginner in data structure, there must be many mistakes in my codes.
 I sincerely hope that you can point out my mistakes.
 
 TO ALL WHO ARE TRYING TO CODE!
+
 TO FUTURE!
